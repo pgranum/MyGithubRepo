@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -pipe -fsigned-char -pthread  -rdynamic CMakeFiles/MySim.dir/MySIm.cpp.o  -o MySim  -L/home/peter/rootBuild/lib 

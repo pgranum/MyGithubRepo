@@ -1,3 +1,0 @@
-/home/peter/Alpha-g/PG/CMakeFiles/rebuild_cache.dir
-/home/peter/Alpha-g/PG/CMakeFiles/MySim.dir
-/home/peter/Alpha-g/PG/CMakeFiles/edit_cache.dir
